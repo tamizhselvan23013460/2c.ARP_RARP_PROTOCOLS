@@ -72,5 +72,4 @@ To write a python program for simulating RARP protocols using UDP.
 
 
 ## RESULT
-Thus, the python program for simulating ARP protocols using TCP was successfully 
-executed.
+Thus, python program for simulating RARP protocols using UDP was successfully executed.
